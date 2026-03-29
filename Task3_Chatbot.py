@@ -26,6 +26,7 @@ def get_response(user_input):
 
 
 # -------------------------------------------------------
+# -------------------------------------------------------
 print("ChatBot is ready! Type 'bye' to exit.\n")
 
 while True:
